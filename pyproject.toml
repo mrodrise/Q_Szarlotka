@@ -1,0 +1,16 @@
+[project]
+name = "Q_Szarlotka"
+version = "0.1.0"
+description = "Q_Szarlotka"
+readme = "README.md"
+requires-python = ">=3.11"
+dependencies = [
+    "gymnasium[box2d]>=1.2.1",
+    "numpy>=2.3.4",
+    "pygame>=2.6.1",
+    "torch>=2.9.0",
+    "pennylane>=0.35.0",
+    "matplotlib>=3.9.0",
+    "imageio>=2.37.0",
+    "ipython>=8.0.0",
+]
