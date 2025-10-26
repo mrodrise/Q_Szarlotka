@@ -2,6 +2,10 @@
 
 This playground explores two classic control tasks—**CartPole** and **Lunar Lander**—using quantum-enhanced reinforcement learning and an interactive game interface.
 
+# Video with explanation
+
+https://youtu.be/LqCtLmpwdqI
+
 ## Environments Overview
 
 - **CartPole**: Balance a pole upright on a moving cart. Observation space (4): cart position, cart velocity, pole angle, pole angular velocity. Action space (2): push cart left or right. Episode ends when the pole falls beyond ~12° or the cart moves outside the track.
